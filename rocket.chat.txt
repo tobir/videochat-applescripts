@@ -1,0 +1,3 @@
+# The status could also be set in Rocket.Chat vie REST API
+# https://developer.rocket.chat/reference/api/rest-api/endpoints/core-endpoints/users-endpoints/set-status
+# possible are: online, away, busy, offline.
